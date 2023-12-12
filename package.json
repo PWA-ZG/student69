@@ -4,9 +4,10 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "ng":"ng",
     "start": "ng serve",
     "serve": "node server.js",
-    "build": "ng build"
+    "build": "ng build --prod"
     },
   "keywords": [],
   "author": "",
